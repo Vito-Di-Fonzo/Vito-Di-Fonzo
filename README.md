@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vito</h1>
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
-- 🔭 I’m currently working on **Treebe**
-
-- 👯 I’m looking to collaborate on **InnovaPuglia S.P.A.**
+- I am currently looking for work 
 
 - 💬 Ask me about **Linkedin : https://www.linkedin.com/in/vito-di-fonzo-95b283222/**
 
